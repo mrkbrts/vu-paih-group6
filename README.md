@@ -1,5 +1,5 @@
 # Enhancing Clinical Guidelines through the Integration of SKLearn Decision Trees for the Diagnosis of Diabetes Mellitus Type 2 🩺
-### Project Artificial Intelligence in Health @ Vrije Universiteit Amsterdam 🎓
+Project Artificial Intelligence in Health @ Vrije Universiteit Amsterdam 🎓
 
 A joint work of **Kirandeep Gill** and **Mark Bartos** made for the Year 2 class of **Project Artificial Intelligence in Health**.
 
