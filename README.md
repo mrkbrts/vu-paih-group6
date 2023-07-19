@@ -1,4 +1,5 @@
-# Project AI in Health
+# Enhancing Clinical Guidelines through the Integration of Decision Trees for the Diagnosis of DM-2
+## Project Artificial Intelligence in Health @ Vrije Universiteit Amsterdam
 A joint work of **Kirandeep Gill** and **Mark Bartos** made for the Year 2 class of **Project Artificial Intelligence in Health**.
 
 # About the code-base
