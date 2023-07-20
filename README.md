@@ -15,7 +15,7 @@ Decision Tree 1 identified regular medicine and high blood pressure as significa
 Decision trees and clinical guidelines aligned on BMI, glucose, insulin, pregnancies, and blood pressure. However, they differed on sleep, prediabetes, and overlooked symptoms like thirst and weight loss.
 
 ## About the Code-Base and the Decision Trees 🧑‍💻
-*📝 The code-bade is made avaliable for grading purposes.*
+*📝 The code-base and research paper is made avaliable for grading purposes.*
 
 This repository uses the SKLearn library to perform a Decision Tree Classifier for the diagnosis of Diabetes Mellitus Type 2 (DM-2). Here's a brief overview of the steps:
 1. Import the necessary libraries (Pandas, NumPy, SKLearn).
